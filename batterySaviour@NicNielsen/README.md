@@ -5,6 +5,8 @@ A lightweight Linux Cinnamon panel applet that lets you set minimum and maximum 
 🌐 **Website:** [www.xlets.ca](https://www.xlets.ca)  
 👤 **Maintainer:** Nic Nielsen  
 
+![Battery Saviour Screenshot](screenshot.png)
+
 ---
 
 ## Features
